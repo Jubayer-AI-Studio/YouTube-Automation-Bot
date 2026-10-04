@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets and authentication tokens
+.env
+client_secrets.json
+token.pickle
+*.pickle
+*.token
+
+# Large media and testing artifacts
+*.mp4
+frame_*.jpg
+test_*.jpg
+output/
+temp/
