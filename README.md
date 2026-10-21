@@ -35,7 +35,7 @@ This Python-powered automation engine automates the entire content creator pipel
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/monisharani333022-eng/YouTube-Automation-Bot.git
+git clone https://github.com/Jubayer-AI-Studio/YouTube-Automation-Bot.git
 cd YouTube-Automation-Bot
 
 # 2. Install requirements
@@ -56,8 +56,8 @@ python main.py
 
 ## 👤 Author
 
-* **Developer:** [Jubayer Ahmad](https://github.com/monisharani333022-eng)
-* **Email:** [monisharani333022@gmail.com](mailto:monisharani333022@gmail.com)
+* **Developer:** [Jubayer Ahmad](https://github.com/Jubayer-AI-Studio)
+* **Email:** [jubayerahmadaistudio@gmail.com](mailto:jubayerahmadaistudio@gmail.com)
 * **Location:** Dhaka, Bangladesh 🇧🇩
 
 ---
